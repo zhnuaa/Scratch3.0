@@ -149,11 +149,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
 
 
 var onClickLogo = function onClickLogo() {
-<<<<<<< HEAD
   window.location = 'http://www.magicbot.com.cn';
-=======
-  window.location = 'https://www.magicbot.com.cn';
->>>>>>> fef46667392b2328d962a02d9261176cefc810a2
 };
 
 var handleTelemetryModalCancel = function handleTelemetryModalCancel() {

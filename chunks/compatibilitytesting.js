@@ -97,11 +97,7 @@ function (_React$Component) {
         allowTransparency: true,
         frameBorder: "0",
         height: "402",
-<<<<<<< HEAD
         src: "http://www.magicbot.com.cn",
-=======
-        src: "https://www.magicbot.com.cn",
->>>>>>> fef46667392b2328d962a02d9261176cefc810a2
         width: "485"
       }));
     }
