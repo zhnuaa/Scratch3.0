@@ -97,7 +97,7 @@ function (_React$Component) {
         allowTransparency: true,
         frameBorder: "0",
         height: "402",
-        src: "https://scratch.mit.edu/projects/embed/".concat(this.state.projectId, "/?autostart=true"),
+        src: "https://www.magicbot.com.cn",
         width: "485"
       }));
     }
